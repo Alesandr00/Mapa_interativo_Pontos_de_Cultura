@@ -20,3 +20,11 @@ A aplicação usa **Streamlit e Folium** para visualizar os pontos no mapa, perm
 ```sh
 git clone https://github.com/Alesandr00/Mapa-interativo-de-Pontos-de-Cultura
 cd pontosdecultura-redeculturaviva
+````
+2️⃣ Instale as dependências:  
+```sh
+pip install -r requirements.txt
+```
+3️⃣ Rode o app:
+```sh
+streamlit run app.py
