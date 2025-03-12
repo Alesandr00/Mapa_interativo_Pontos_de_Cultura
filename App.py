@@ -49,6 +49,5 @@ for _, row in df_filtrado.iterrows():
     
     iframe = folium.IFrame(html=popup_texto, width=300, height=300)
     folium.Marker([row["Latitude"], row["Longitude"]], popup=folium.Popup(iframe)).add_to(mapa)
-
-# Exibir o mapa no Streamlit
+  
 folium_static(mapa)
