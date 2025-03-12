@@ -29,3 +29,7 @@ pip install -r requirements.txt
 3️⃣ Rode o app:
 ```sh
 streamlit run app.py
+```
+Imagens:
+![Mapa interativo](https://github.com/user-attachments/assets/ca1b3a16-c4d1-417e-ba1e-cd01b8cf84c4<\p>)
+
