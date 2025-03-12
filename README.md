@@ -34,3 +34,11 @@ Imagens:
 <p align="center">
     <img src="https://github.com/user-attachments/assets/ca1b3a16-c4d1-417e-ba1e-cd01b8cf84c4" alt="Descrição da imagem">
 </p>
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b83d22cf-c526-45cc-8865-10185319c2a2" alt="Descrição da imagem">
+</p>
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5f1b6172-3b3a-44eb-8021-587562f5fb64" alt="Descrição da imagem">
+</p>
