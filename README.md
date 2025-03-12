@@ -30,7 +30,6 @@ pip install -r requirements.txt
 ```sh
 streamlit run app.py
 ```
-Imagens:
 <p align="center">
     <img src="https://github.com/user-attachments/assets/ca1b3a16-c4d1-417e-ba1e-cd01b8cf84c4" alt="Descrição da imagem">
 </p>
